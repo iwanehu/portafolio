@@ -1,0 +1,10 @@
+.container-inicio{
+ display: flex;
+ align-items: center;
+}
+.text{
+    margin: 6em;
+}
+h1 ,h4, h5{
+    color: aliceblue;
+}
