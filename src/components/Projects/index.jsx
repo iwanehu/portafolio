@@ -1,7 +1,7 @@
 import React from 'react'
-import "../Proyects/Proyects.css";
+import "./Projects.css";
 
-function Proyects() {
+function Projects() {
   return (
     <>
     <h1 className='title text-center'>Proyectos</h1>
@@ -28,4 +28,4 @@ function Proyects() {
   ) 
 }
 
-export default Proyects
+export default Projects

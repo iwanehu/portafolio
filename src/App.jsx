@@ -1,13 +1,13 @@
 import Header from "./components/header"
 import Inicio from "./components/inicio"
-import Proyects from "./components/proyects"
+import Projects from "./components/Projects"
 
 function App() {
   return (
     <>
     <Header />
     <Inicio />
-   <Proyects />
+   <Projects />
     </>
   )
 }
