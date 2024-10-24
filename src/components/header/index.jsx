@@ -7,7 +7,7 @@ function Header() {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <a className="nav-link active text-light bg-warning rounded-pill p-2" aria-current="page" href="#">Inicio</a>
+            <a className="Ini nav-link active text-light bg-light.bg-gradient rounded-pill p-2" aria-current="page" href="#">Inicio</a>
           </li>
           <li className="nav-item ">
             <a className="nav-link active text-light" aria-current="page" href="#Projects">Proyectos</a>
