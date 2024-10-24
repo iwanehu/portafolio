@@ -8,3 +8,10 @@
 h1 ,h4, h5{
     color: aliceblue;
 }
+
+@media (max-width:800px){
+    .container-inicio{
+        display: flex;
+        flex-wrap: wrap;
+       }
+}

@@ -3,8 +3,8 @@ import "./Projects.css";
 
 function Projects() {
   return (
-    <>
-    <h1 className='title text-center'>Proyectos</h1>
+    <div id='Projects'>
+    <h1 className='title text-center' >Proyectos</h1>
     <div className='proyect d-flex d-inline-flex flex-wrap justify-content-center'>
    <a href="/dskjs"> <div className='card bg-black m-4 '>
         <img src="/asset/proyectos/proyecto1.png" alt="buzoncorreo" />
@@ -24,7 +24,7 @@ function Projects() {
     </div></a>
     </div>
     
-    </>
+    </div>
   ) 
 }
 

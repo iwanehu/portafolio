@@ -4,7 +4,7 @@ import React from "react";
 
 function Inicio() {
   return (
-    <div className='container-inicio d-flex aling-content-center justify-content-center m-5 p-5'><div className="text " ><h4>✌Hola soy </h4>
+    <div className='container-inicio d-flex aling-content-center justify-content-center m-5 p-5' id="Inicio"><div className="text " ><h4>✌Hola soy </h4>
     <h1>SNAYDER</h1>
     <h5>   
     Desarrollador Web"</h5></div>
